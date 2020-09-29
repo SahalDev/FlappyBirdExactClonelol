@@ -16,6 +16,8 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.DeviceSimulator.Editor.dll:
+    - Unity.DeviceSimulator.SimulatorWindow
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.Editor.dll:
@@ -69,31 +71,31 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11256}
     - Class: 114
-      Script: {instanceID: 11414}
+      Script: {instanceID: 11422}
     - Class: 114
-      Script: {instanceID: 11544}
+      Script: {instanceID: 11554}
     - Class: 114
-      Script: {instanceID: 11598}
+      Script: {instanceID: 11608}
     - Class: 114
-      Script: {instanceID: 12262}
+      Script: {instanceID: 12286}
     - Class: 114
-      Script: {instanceID: 12566}
+      Script: {instanceID: 12594}
     - Class: 114
-      Script: {instanceID: 12880}
+      Script: {instanceID: 12922}
     - Class: 114
-      Script: {instanceID: 12968}
+      Script: {instanceID: 13018}
     - Class: 114
-      Script: {instanceID: 13346}
+      Script: {instanceID: 13400}
     - Class: 114
-      Script: {instanceID: 13632}
+      Script: {instanceID: 13694}
     - Class: 114
-      Script: {instanceID: 13732}
+      Script: {instanceID: 13800}
     - Class: 114
-      Script: {instanceID: 13880}
+      Script: {instanceID: 13954}
     - Class: 114
-      Script: {instanceID: 14344}
+      Script: {instanceID: 14434}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -136,21 +138,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11252}
+      Script: {instanceID: 11256}
     - Class: 114
-      Script: {instanceID: 11544}
+      Script: {instanceID: 11554}
     - Class: 114
-      Script: {instanceID: 11598}
+      Script: {instanceID: 11608}
     - Class: 114
-      Script: {instanceID: 12068}
+      Script: {instanceID: 12086}
     - Class: 114
-      Script: {instanceID: 12262}
+      Script: {instanceID: 12286}
     - Class: 114
-      Script: {instanceID: 12968}
+      Script: {instanceID: 13018}
     - Class: 114
-      Script: {instanceID: 13732}
+      Script: {instanceID: 13800}
     - Class: 114
-      Script: {instanceID: 14344}
+      Script: {instanceID: 14434}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
