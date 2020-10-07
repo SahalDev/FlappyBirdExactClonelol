@@ -698,4 +698,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Game.unity
-  playerPath: C:/Users/Sahal/Desktop/FlappyBirdExactClonelol/lolflappybird/Build/FBBS.apk
+  playerPath: C:/Users/Sahal/Desktop/FlappyBirdExactClonelol/lolflappybird/Build/Game.apk
